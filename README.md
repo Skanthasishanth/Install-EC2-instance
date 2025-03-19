@@ -144,6 +144,9 @@ Log in with admin credentials.
 ![1A3](https://github.com/user-attachments/assets/d41512a5-e09e-4575-9f49-6968048656cf)
 
 
+
+
 ![1A4](https://github.com/user-attachments/assets/29686733-b74a-4f51-b098-e082861c935f)
+
 
 Successfully installed OpenStack and accessed the Horizon Dashboard.
