@@ -73,7 +73,9 @@ Connect to the Instance
 
 Open Terminal/Command Prompt.
 
+```
 Run ssh -i your-key.pem ec2-user@your-instance-ip.
+```
 
 ### Result:
 
@@ -82,7 +84,7 @@ Run ssh -i your-key.pem ec2-user@your-instance-ip.
 Successfully launched and connected to an EC2 instance.
 
 
-3. Install OpenStack
+# 3. Install OpenStack
 (OpenStack is an open-source cloud platform for managing virtualized resources.)
 
 ### Algorithm:
